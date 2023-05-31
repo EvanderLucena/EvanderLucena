@@ -1,5 +1,5 @@
 - Oi, eu sou o <s>goku</s> @EvanderLucena
-     - 28 Anos
+     - 30 Anos
      - Dev. backend Jr
    
 - Atualmente trabalhando em uma empresa de desenvolvimento de software com foco em labatorios hispitalares.
